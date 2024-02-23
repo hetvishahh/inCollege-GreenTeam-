@@ -1,0 +1,7 @@
+hetvis,Valid123!,hetvi,shah,USF,CS
+username,Password1!,firstname,lastname,USF,CS
+username1,Valid123!,fname,lname,uf,cs
+busmonov,Valid123!,bob,usmonov,usf,ce
+koki,Valid123!,koki,lastname,usf,ee
+austin,Valid123!,austin,molketin,ucf,ie
+dat,Valid123!,dat,nguyen,fau,comm
