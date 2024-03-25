@@ -1,0 +1,2 @@
+intern,swe,yahoo,tampa,30,hetvis
+intern,google,google,tampa,20,hetvis
