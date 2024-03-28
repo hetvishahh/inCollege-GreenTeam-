@@ -1,0 +1,10 @@
+hetvis,Valid123!,hetvi,shah,USF TPA,CSe,student,systems engineer,ucf
+username,Password1!,firstname,lastname,USF,CS,Plus,systems engineer,usf
+username1,Valid123!,fname,lname,uf,cs,Plus,systems engineer,usf
+busmonov,Valid123!,bob,usmonov,usf,ce,student,systems engineer,usf
+koki,Valid123!,koki,lastname,usf,ee,Plus,systems engineer,usf
+austin,Valid123!,austin,molketin,ucf,ie,student,systems engineer,usf
+dat,Valid123!,dat,nguyen,fau,comm,Plus,systems engineer,usf
+fd,Valid123!,felicia,drysdale,UF,Computer Science,student,systems engineer,usfhetvis12,Password123!,hetvi,shah,USF,CS,Standard
+em,Valid123!,elen,mathew,usf,cyber,Standard
+shak,Valid123!,shakira,val,usf,cse,Standard
